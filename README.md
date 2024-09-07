@@ -1,3 +1,5 @@
 # New test project
 ## Description
-To learn hoe to create a new project and connect it with the GitHub
+To learn how to create a new project and connect it with the GitHub.
+
+Text updated from IDE.
